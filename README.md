@@ -1,1 +1,1 @@
-# Precision-Agriculture-Advisor.
+# Precision-Agriculture-Advisor
