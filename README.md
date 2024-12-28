@@ -1,1 +1,1 @@
-# Precision-Agriculture-Advisor
+# smart-Agriculture-Advisor
